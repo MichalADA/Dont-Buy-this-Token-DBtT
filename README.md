@@ -1,5 +1,3 @@
-# Dont-Buy-this-Token-DBtT
-Dont Buy this token 
 # Don't Buy This Token
 
 ## Project Overview
@@ -59,4 +57,4 @@ The name highlights the experimental nature of the project and serves as a playf
 - Explore integration with other blockchain ecosystems.
 
 ## Disclaimer
-This project is for educational purposes only. The token created in this project is not intended for trading or investment.
+This project is for educational purposes only. The token created in this project is not intended for trading or investment. The creator takes no responsibility for any misuse of this token or any financial losses incurred.
